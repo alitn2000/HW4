@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\HW4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AED8EF0-7412-46A5-AB6D-5A95B314FC84}|HW4\\HW4.csproj|d:\\c#\\hw4\\hw4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AED8EF0-7412-46A5-AB6D-5A95B314FC84}|HW4\\HW4.csproj|solutionrelative:hw4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AED8EF0-7412-46A5-AB6D-5A95B314FC84}|HW4\\HW4.csproj|d:\\c#\\hw4\\hw4\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AED8EF0-7412-46A5-AB6D-5A95B314FC84}|HW4\\HW4.csproj|solutionrelative:hw4\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\c#\\HW4\\HW4\\Book.cs",
+              "RelativeDocumentMoniker": "HW4\\Book.cs",
+              "ToolTip": "D:\\c#\\HW4\\HW4\\Book.cs",
+              "RelativeToolTip": "HW4\\Book.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T17:36:48.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\HW4\\HW4\\Program.cs",
+              "RelativeDocumentMoniker": "HW4\\Program.cs",
+              "ToolTip": "D:\\c#\\HW4\\HW4\\Program.cs",
+              "RelativeToolTip": "HW4\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T17:36:01.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
